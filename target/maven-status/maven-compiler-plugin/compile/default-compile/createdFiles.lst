@@ -1,0 +1,4 @@
+com/example/demo/controller/Studentcontroller.class
+com/example/demo/config/SwaggerConfig.class
+com/example/demo/service/Studentservice.class
+com/example/demo/entity/Studententity.class
